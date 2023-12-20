@@ -7,3 +7,4 @@ Bug reports and Feature requests are also another layer on the graph, viewed as 
 
 # Dev-Cycle.Knowledge
 - [How Agile failed software developers and why SCRUM is a bad idea](https://youtu.be/KJ5u_Kui1sU)
+- [Why Does Scrum Make Programmers HATE Coding?](https://youtu.be/HURvJDldVGA)
